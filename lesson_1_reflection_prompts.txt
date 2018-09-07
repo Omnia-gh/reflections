@@ -1,0 +1,83 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Hogyan látta a különbséget a fájl két verziója között, hogy segítséget nyújtson a hibának
+vezették be?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Hogyan lehet könnyedén elérni egy fájl teljes történetét, így még többet tudsz
+hatékony programozó hosszú távon?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Mit gondolsz, mi az előnye és hátránya, hogy kézzel választja, mikor hoz létre a
+elkötelezheti magát, mint a Git-ban, és a verziók automatikusan mentésre kerülnek, mint a Google
+dokumentumokat csinál?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Miért gondolja, hogy egyes verziókezelő rendszerek, például a Git, lehetővé teszik a többszörös megtakarítást?
+egy fájlban lévő fájlok, míg mások, mint például a Google Dokumentumok, külön kezelik az egyes fájlokat?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+Hogyan használhatja a git log és git diff parancsokat a fájlok előzményeinek megtekintéséhez?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+Hogyan használhatja a verziókezelést abban, hogy biztonságosabbá teheti a módosításokat
+összetörhet valamit?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Most, hogy létrehozta a munkaterületet, mit szeretne használni a Git használatával?
+
+    Fill in your answer here
+
+1.8
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Hogyan lehet könnyedén elérni a fájl teljes történetét, és hosszú távon hatékonyabb programozót kínál?
+
+    Fill in your answer here
+
+1.15
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Mit gondolsz, mi az előnye és hátránya, hogy kézzel választja, mikor hoz létre egy commit-ot, mint te a Git-ben,
+miután a verziók automatikusan mentésre kerültek, mint például a Google Docs?
+
+    Fill in your answer here
+
+1.18
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Mit gondolsz, hogy egyes verziókezelő rendszerek, például a Git, lehetővé teszik több fájl mentését egy elkövetésben, míg mások, például a Google Dokumentumok, külön kezelik az egyes fájlokat?
+
+    Fill in your answer here
+
+1.22
+How can you use the commands 'git log' and 'git diff' to view the history of files?
+Hogyan használhatja a 'git log' és 'git diff' parancsokat a fájlok előzményeinek megtekintéséhez?
+
+    Fill in your answer here
+
+1.26
+How might using version control make you more confident to make changes that could break something?
+Hogyan használhatja a verziókezelést abban, hogy biztonságosabbá teheti az olyan változtatásokat, amelyek valamit megszakíthatnak?
+
+    Fill in your answer here
+
+1.31
+Now that you have your workspace set up, what do you want to try using Git for?
+Most, hogy létrehozta a munkaterületet, mit szeretne használni a Git használatával?
+
+    Fill in your answer here
